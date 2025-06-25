@@ -2,10 +2,10 @@
 ADR-Net enhanced with data processing and expansed dataset training
 
 ## Updates 
-1.new data processing pipline
+#1.new data processing pipline
 ·Calculate ECFP descriptor by openbabel
 ·Match cactvs from pubchem 
-2.extened dataset training
+#2.extened dataset training
 ·Original training data: AEOLUS and Liu's dataset.
 ·New training data: SIDER 4.1
 
