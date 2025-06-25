@@ -14,8 +14,8 @@ Enhanced framework for Adverse Drug Reaction prediction with improved data proce
   - AEOLUS database
   - Liu et al. dataset
 - **New Training Data**:  
-  SIDER 4.1 (Side Effect Resource)
-  TORIC 
+  - SIDER 4.1 (Side Effect Resource)
+  - TORIC 
 
 ## Reference
 ```bibtex
