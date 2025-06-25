@@ -15,7 +15,7 @@ Enhanced framework for Adverse Drug Reaction prediction with improved data proce
   - Liu et al. dataset
 - **New Training Data**:  
   - SIDER 4.1 (Side Effect Resource)
-  - TORIC 
+  - TOXRIC 
 
 ## Reference
 ```bibtex
