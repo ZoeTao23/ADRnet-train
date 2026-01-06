@@ -1,10 +1,10 @@
-# ADR-Net Enhanced Training Framework
-Enhanced framework for Adverse Drug Reaction prediction with improved data processing and expanded dataset training.
+# ADRnet Training 
+Adverse Drug Reaction prediction with improved data processing and expanded dataset training.
 
 ## Key Updates
 
 ### 1. New Data Processing Pipeline
-- **ECFP Descriptor Calculation**:  
+- **Chem Descriptor Calculation**:  
   Generated using OpenBabel for molecular fingerprinting
 - **CACTVS Key Matching**:  
   Aligned with PubChem compound databases
@@ -15,18 +15,23 @@ Enhanced framework for Adverse Drug Reaction prediction with improved data proce
   - Liu et al. dataset
 - **New Training Data**:  
   - SIDER 4.1 (Side Effect Resource)
-  - TOXRIC 
+  - TOXRIC database
 
 ## Reference
 ```bibtex
 @article{li2023generalized,
-  title        = {A Generalized Collaborative Filtering Framework Combining Clinical and Non-Clinical Data for Adverse Drug Reaction Prediction},
-  author       = {Li, Haoxuan and Hu, Taojun and Xiong, Zetong and Zheng, Chunyuan and Feng, Fuli and He, Xiangnan and Zhou, Xiao-Hua},
-  journal      = {[Journal Name]},
-  volume       = {[Volume]},
-  number       = {[Issue]},
-  pages        = {[Page Range]},
-  year         = {2023},
-  publisher    = {[Publisher]},
-  note         = {Manuscript submitted for publication}
+  author = {Li, Haoxuan and Hu, Taojun and Xiong, Zetong and Zheng, Chunyuan and Feng, Fuli and He, Xiangnan and Zhou, Xiao-Hua},
+  title = {ADRNet: A Generalized Collaborative Filtering Framework Combining Clinical and Non-Clinical Data for Adverse Drug Reaction Prediction},
+  year = {2023},
+  isbn = {9798400702419},
+  publisher = {Association for Computing Machinery},
+  address = {New York, NY, USA},
+  url = {https://doi.org/10.1145/3604915.3608813},
+  doi = {10.1145/3604915.3608813},
+  booktitle = {Proceedings of the 17th ACM Conference on Recommender Systems},
+  pages = {682–687},
+  numpages = {6},
+  keywords = {adverse drug reaction, drug-ADR prediction, sided effect},
+  location = {Singapore, Singapore},
+  series = {RecSys '23}
 }
