@@ -17,7 +17,7 @@ Adverse Drug Reaction prediction with improved data processing and expanded data
 
 ## Reference
 ```bibtex
-@article{li2023generalized,
+@article{
   author = {Li, Haoxuan and Hu, Taojun and Xiong, Zetong and Zheng, Chunyuan and Feng, Fuli and He, Xiangnan and Zhou, Xiao-Hua},
   title = {ADRNet: A Generalized Collaborative Filtering Framework Combining Clinical and Non-Clinical Data for Adverse Drug Reaction Prediction},
   year = {2023},
