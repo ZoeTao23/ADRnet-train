@@ -3,7 +3,7 @@ Adverse Drug Reaction prediction with improved data processing and expanded data
 
 ## Key Updates
 
-### 1. New Data Processing Pipeline
+### 1. Data Processing Pipeline
 - **Chem Descriptor Calculation**:  
   Generated using OpenBabel for molecular fingerprinting (ECFP2, MACCS, mordred, RDkit, Morgan)
 
