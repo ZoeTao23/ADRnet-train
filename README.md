@@ -5,9 +5,7 @@ Adverse Drug Reaction prediction with improved data processing and expanded data
 
 ### 1. New Data Processing Pipeline
 - **Chem Descriptor Calculation**:  
-  Generated using OpenBabel for molecular fingerprinting
-- **CACTVS Key Matching**:  
-  Aligned with PubChem compound databases
+  Generated using OpenBabel for molecular fingerprinting (ECFP2, MACCS, mordred, RDkit, Morgan)
 
 ### 2. Extended Dataset Training
 - **Original Training Data**:
